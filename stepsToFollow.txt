@@ -1,0 +1,7 @@
+Steps to follow:
+
+- 'npm init' to start a Node project
+- 'npm install cypress --save-dev' to install cypress
+- 'npm install -D @bahmutov/cy-api' to install cy-api
+- 'npm install -D bahmutov/cy-spok' to install schema validator spok
+- 'npm install -D chance' to install chance

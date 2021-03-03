@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://conduit.productionready.io/api",
+    "watchForFileChanges": false
+}

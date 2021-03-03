@@ -1,0 +1,17 @@
+{
+  "name": "cypress-test-project",
+  "version": "1.0.0",
+  "description": "Cypress test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Horota",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cy-api": "^1.4.3",
+    "chance": "^1.1.7",
+    "cy-spok": "github:bahmutov/cy-spok",
+    "cypress": "^6.6.0"
+  }
+}
